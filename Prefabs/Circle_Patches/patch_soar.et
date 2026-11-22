@@ -1,0 +1,21 @@
+GameEntity : "{31B8D047E27D9FF1}Prefabs/Circle_Patches/Patch_Reaper_Base.et" {
+ ID "657B0C0A4C1F9EDE"
+ components {
+  InventoryItemComponent "{657B0C0AEEF49C10}" {
+   Attributes SCR_ItemAttributeCollection "{657B0C0AEEF49C16}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{657B0C0AEEF49F14}" {
+     Name "SOAR Patch"
+     Description ""
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{657B0C0AEEEB7D3C}" {
+   WornMaterialsOverride {
+    "{B35BEA5CC60E9F1B}Assets/Circle_Patches/Data/TFL_2/soar.emat"
+   }
+   ItemMaterialsOverride {
+    "{B35BEA5CC60E9F1B}Assets/Circle_Patches/Data/TFL_2/soar.emat"
+   }
+  }
+ }
+}

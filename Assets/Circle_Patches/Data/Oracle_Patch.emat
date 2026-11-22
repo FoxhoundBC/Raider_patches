@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ BCRMap "{D930F222C881D4D1}Assets/Circle_Patches/Data/oracle_patch.edds"
+ NMOMap "{1B98C3CE5A25ACEE}Assets/Circle_Patches/Data/oracle_patchNorm.edds"
+}

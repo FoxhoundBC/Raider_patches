@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.546 0.531 0.481 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{5C8104ABB61AB4A1}Assets/Rectangle Patches/Data/Miller_subdued.edds"
+ NMOMap "{632AA59D84FA51D1}Assets/Rectangle Patches/Data/Miller_subduedN.edds"
+}

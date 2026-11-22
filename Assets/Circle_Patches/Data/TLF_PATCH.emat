@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ BCRMap "{25059BFE72412ECF}Assets/Circle_Patches/Data/a8da90d4-28a4-4f89-ad26-9e26c008a9cf.edds"
+ NMOMap "{4761562D31417FE2}Assets/Circle_Patches/Data/a8da90d4-28a4-4f89-ad26-9e26c008a9cfN.edds"
+}

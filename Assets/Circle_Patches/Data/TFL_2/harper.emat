@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{B9B0C3A3E3AF81DC}Assets/Circle_Patches/Data/TFL_2/harper_patch.edds"
+ NMOMap "{81A222EA9D66FDFC}Assets/Circle_Patches/Data/TFL_2/harper_patchnorm.edds"
+}

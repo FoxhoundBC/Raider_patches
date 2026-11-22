@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.546 0.531 0.481 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{9875F2E514774815}Assets/Flag_Patches/canadia3.edds"
+ NMOMap "{1E34903AB4EAC662}Assets/Flag_Patches/canadia3_norm.edds"
+}

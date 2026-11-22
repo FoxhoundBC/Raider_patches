@@ -1,0 +1,29 @@
+GameEntity : "{C3C66DFD34ADB415}Prefabs/Flag_Patches/USA_Flag_Color.et" {
+ ID "657B0C0A4C1F9EDE"
+ components {
+  InventoryItemComponent "{657B0C0AEEF49C10}" {
+   Attributes SCR_ItemAttributeCollection "{657B0C0AEEF49C16}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{657B0C0AEEF49F14}" {
+     Name "GRS: Patch Ireland Flag"
+     Description "GRS: Patch Russia Flag"
+    }
+   }
+  }
+  MeshObject "{657B0C0AEEEB7DCB}" {
+   Materials {
+    MaterialAssignClass "{6651656CCF7C9986}" {
+     SourceMaterial "Mat_Patch"
+     AssignedMaterial "{B1983544FC646305}Assets/Flag_Patches/Data/Flag_Patch_IRE.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{657B0C0AEEEB7D3C}" {
+   WornMaterialsOverride {
+    "{B1983544FC646305}Assets/Flag_Patches/Data/Flag_Patch_IRE.emat"
+   }
+   ItemMaterialsOverride {
+    "{B1983544FC646305}Assets/Flag_Patches/Data/Flag_Patch_IRE.emat"
+   }
+  }
+ }
+}

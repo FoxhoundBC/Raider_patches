@@ -1,0 +1,29 @@
+GameEntity : "{C3C66DFD34ADB415}Prefabs/Flag_Patches/USA_Flag_Color.et" {
+ ID "657B0C0A4C1F9EDE"
+ components {
+  InventoryItemComponent "{657B0C0AEEF49C10}" {
+   Attributes SCR_ItemAttributeCollection "{657B0C0AEEF49C16}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{657B0C0AEEF49F14}" {
+     Name "Union Jack - Subdued"
+     Description ""
+    }
+   }
+  }
+  MeshObject "{657B0C0AEEEB7DCB}" {
+   Materials {
+    MaterialAssignClass "{69334947B5D4DD17}" {
+     SourceMaterial "Mat_Patch"
+     AssignedMaterial "{6FCFD525CB008384}Assets/Flag_Patches/Data/Disgusting.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{657B0C0AEEEB7D3C}" {
+   WornMaterialsOverride {
+    "{6FCFD525CB008384}Assets/Flag_Patches/Data/Disgusting.emat"
+   }
+   ItemMaterialsOverride {
+    "{6FCFD525CB008384}Assets/Flag_Patches/Data/Disgusting.emat"
+   }
+  }
+ }
+}

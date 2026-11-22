@@ -1,0 +1,6 @@
+MatPBRBasic {
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{748B163CF67F7ABA}Assets/Flag_Patches/ewwwww.edds"
+ NMOMap "{996A031BFF91CBAD}Assets/Flag_Patches/ewwwwnorm.edds"
+}

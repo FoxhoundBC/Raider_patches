@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.546 0.531 0.481 1
+ Diffuse 0.418 0.418 0.418 1
+ BCRMap "{282CDF5C827A2DD9}Assets/Flag_Patches/Ireland_Flag_Patch3.edds"
+ NMOMap "{F780BFF9B16F6A10}Assets/Flag_Patches/Ireland_Flag_Patch3N.edds"
+}

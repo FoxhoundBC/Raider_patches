@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.546 0.531 0.481 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{DE083F98A43AB2A7}Assets/Rectangle Patches/Data/saby1.edds"
+ NMOMap "{990AB0988A1A4E3A}Assets/Rectangle Patches/Data/saby1N.edds"
+}

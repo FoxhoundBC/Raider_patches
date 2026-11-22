@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B35BEA5CC60E9F1B}Assets/Circle_Patches/Data/TFL_2/soar.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

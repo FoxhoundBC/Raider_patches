@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{30FFE3CCEAB7C954}Assets/Circle_Patches/Data/TFL_2/deimos_brown.edds"
+ NMOMap "{65DF85B5EC9CBE6E}Assets/Circle_Patches/Data/TFL_2/deimos_brown_Norm.edds"
+}

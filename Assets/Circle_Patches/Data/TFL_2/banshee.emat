@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{10E4A62899CCFE3E}Assets/Circle_Patches/Data/TFL_2/banshee_patch.edds"
+ NormalPower 3
+ NMOMap "{464EDB027698B1F2}Assets/Circle_Patches/Data/TFL_2/banshee_patch_norm.edds"
+}

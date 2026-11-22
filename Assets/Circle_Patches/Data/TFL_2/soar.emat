@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ AOScale 0.478
+ BCRMap "{D5E044B939960E16}Assets/Circle_Patches/Data/TFL_2/SOAR.edds"
+ NMOMap "{E8896067DEFCB3E4}Assets/Circle_Patches/Data/TFL_2/SOAR_Norm.edds"
+}

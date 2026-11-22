@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ BCRMap "{165ED73AF7F46953}Assets/Circle_Patches/Data/crusader_patch.edds"
+ NMOMap "{BA79424A63B5772E}Assets/Circle_Patches/Data/crusader_patchNorm.edds"
+}

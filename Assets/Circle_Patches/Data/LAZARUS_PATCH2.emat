@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ BCRMap "{1732DBA84EBDA314}Assets/Circle_Patches/Data/lazarus_patch.edds"
+ NMOMap "{369F191A9E8AC0B1}Assets/Circle_Patches/Data/lazarus_patchNorm.edds"
+}

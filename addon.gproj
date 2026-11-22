@@ -1,0 +1,22 @@
+GameProject {
+ ID "TFL_Patches"
+ GUID "663D0AAA2E5D37F3"
+ TITLE "TFL_Patches"
+ Dependencies {
+  "65DACC64CE785B6C" "65157D09F042428A" "5D0551624969C92E" "657B064AE0E231DF" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

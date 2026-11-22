@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.546 0.531 0.481 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{42ABD06E97CCC2C4}Assets/Circle_Patches/Data/Lobster2.edds"
+ NMOMap "{7177715B837EE979}Assets/Circle_Patches/Data/Lobster2N.edds"
+}

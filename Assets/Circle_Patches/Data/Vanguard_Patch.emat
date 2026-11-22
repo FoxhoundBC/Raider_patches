@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.474 0.474 0.474 1
+ BCRMap "{2DA3DE23D810215E}Assets/Circle_Patches/Data/vanguard_patch.edds"
+ NMOMap "{FC807B346F38B67F}Assets/Circle_Patches/Data/vanguard_patchNorm.edds"
+}

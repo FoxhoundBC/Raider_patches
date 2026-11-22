@@ -1,0 +1,9 @@
+MatPBRBasic {
+ SpecularMul 0.82
+ RoughnessScale 0.637
+ MetalnessScale 1.245
+ AOScale 0.867
+ CavityFromAO 0
+ BCRMap "{B237A41B652F8899}Assets/Flag_Patches/irelandIR4.edds"
+ NMOMap "{0E2BFD6680A97284}Assets/Flag_Patches/irelandIR_NORM1.edds"
+}

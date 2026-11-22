@@ -1,0 +1,29 @@
+GameEntity : "{31B8D047E27D9FF1}Prefabs/Circle_Patches/Patch_Reaper_Base.et" {
+ ID "657B0C0A4C1F9EDE"
+ components {
+  InventoryItemComponent "{657B0C0AEEF49C10}" {
+   Attributes SCR_ItemAttributeCollection "{657B0C0AEEF49C16}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{657B0C0AEEF49F14}" {
+     Name "Task Force Lionheart Patch"
+     Description ""
+    }
+   }
+  }
+  MeshObject "{657B0C0AEEEB7DCB}" {
+   Materials {
+    MaterialAssignClass "{66A3716E9FBC9619}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{F76A5C0999072FD6}Assets/Circle_Patches/Data/TLF_PATCH.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{657B0C0AEEEB7D3C}" {
+   WornMaterialsOverride {
+    "{F76A5C0999072FD6}Assets/Circle_Patches/Data/TLF_PATCH.emat"
+   }
+   ItemMaterialsOverride {
+    "{F76A5C0999072FD6}Assets/Circle_Patches/Data/TLF_PATCH.emat"
+   }
+  }
+ }
+}
